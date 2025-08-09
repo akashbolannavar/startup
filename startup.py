@@ -10,7 +10,7 @@ main.title("Startup Funding Analysis")
 main.geometry("1300x1200")
 
 font = ('times', 16, 'bold')
-title = Label(main, text='Startup Funding Data Analysis GUI')
+title = Label(main, text='Startup Funding Data Analysis Akash')
 title.config(bg='greenyellow', fg='dodger blue')
 title.config(font=font)
 title.config(height=3, width=120)
@@ -323,3 +323,4 @@ recommendButton.config(font=font1)
 
 main.config(bg='LightSkyBlue')
 main.mainloop()
+
